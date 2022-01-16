@@ -14,7 +14,7 @@
            fetch="https://github.com/yesidev" />   
 
    <remote  name="kt"
-           fetch="https://github.com/xiaomi-sdm439-devs" />   
+           fetch="https://github.com/mi-sdm439" />   
 
    <remote  name="mi"
            fetch="https://github.com/mi-sdm439" />   
