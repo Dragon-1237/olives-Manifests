@@ -15,6 +15,9 @@
 
    <remote  name="kt"
            fetch="https://github.com/mi-sdm439" />   
+  
+    <remote  name="sn"
+           fetch="https://github.com/SonalSingh18" />   
 
  <!-- Replacement -->
   <remove-project name="android_packages_resources_devicesettings"/>
@@ -41,4 +44,5 @@
   <project path="vendor/xiaomi/pine"  name="vendor_xiaomi_pine" remote="hsx" revision="12.0"/>
   <project path="vendor/xiaomi/sdm439-common"  name="vendor_xiaomi_sdm439-common" remote="hsx" revision="12.0"/>
   <project path="kernel/xiaomi/sdm439" name="android_kernel_xiaomi_sdm439" remote="kt" revision="a12/main"  clone-depth="1"/> 
+  <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="sn" revision="master"  clone-depth="1"/> 
   </manifest>
