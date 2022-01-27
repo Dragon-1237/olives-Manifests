@@ -10,6 +10,9 @@
    <remote  name="kt"
            fetch="https://github.com/xiaomi-sdm439-devs" />   
 
+    <remote  name="sn"
+           fetch="https://github.com/SonalSingh18" />   
+
  <!-- Replacement -->
    <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="hsx" revision="lineage-18.1"/>
    <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="hsx" revision="lineage-18.1"/>
@@ -27,5 +30,5 @@
   <project path="vendor/xiaomi/pine"  name="vendor_xiaomi_pine" remote="hsx" revision="12.0"/>
   <project path="vendor/xiaomi/sdm439-common"  name="vendor_xiaomi_sdm439-common" remote="hsx" revision="12.0"/>
   <project path="kernel/xiaomi/sdm439" name="kernel_xiaomi_sdm439" remote="hsx" revision="a12/main"  clone-depth="1"/> 
-
-  </manifest>
+  <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="sn" revision="master"  clone-depth="1"/> 
+</manifest>
