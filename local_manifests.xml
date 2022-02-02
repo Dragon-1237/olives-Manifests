@@ -31,7 +31,7 @@
   <project path="device/xiaomi/pine" name="device_xiaomi_pine" remote="hsx" revision="aex"/>
   <project path="device/xiaomi/sdm439-common" name="wip" remote="hsx" revision="tree"/>
   <project path="vendor/xiaomi/pine"  name="vendor_xiaomi_pine" remote="hsx" revision="12.0"/>
-  <project path="vendor/xiaomi/sdm439-common"  name="vendor_xiaomi_sdm439-common" remote="hsx" revision="wip"/>
+  <project path="vendor/xiaomi/sdm439-common"  name="vendor_xiaomi_sdm439-common" remote="hsx" revision="wix"/>
   <project path="kernel/xiaomi/sdm439" name="kernel_xiaomi_sdm439" remote="hsx" revision="a12/main"  clone-depth="1"/> 
   <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="sn" revision="master"  clone-depth="1"/> 
 </manifest>
