@@ -25,6 +25,8 @@
   <remove-project name="android_hardware_qcom_wlan"/>
    <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="hsx" revision="S"/>
    <project path="vendor/qcom/opensource/libfmjni" name="vendor_qcom_opensource_libfmjni" remote="pxl" revision="twelve"/>
+  <remove-project name="xd_frameworks_base"/>
+   <project path="frameworks/base" name="xd_frameworks_base" remote="hsx" revision="twelve"/>
 
   <project path="device/xiaomi/pine" name="wip" remote="hsx" revision="xd"/>
   <project path="device/xiaomi/sdm439-common" name="device_xiaomi_sdm439-common" remote="hsx" revision="12.0"/>
