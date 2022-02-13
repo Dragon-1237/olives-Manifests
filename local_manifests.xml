@@ -10,9 +10,6 @@
    <remote  name="mi"
            fetch="https://github.com/mi-sdm439" />   
 
-   <remote  name="xd"
-           fetch="https://github.com/xdroid-oss" />  
-
    <remote  name="dl"
            fetch="https://github.com/dlwlrma123" />  
 
