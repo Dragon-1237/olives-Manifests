@@ -11,7 +11,7 @@
            fetch="https://github.com/mi-sdm439" />   
 
    <remote  name="dl"
-           fetch="https://github.com/dlwlrma123" />..
+           fetch="https://github.com/dlwlrma123" />
 
    <remote  name="xxd"
            fetch="https://github.com/xdroid-devices" />
